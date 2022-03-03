@@ -9,3 +9,7 @@ elm make src/Main.elm --output=elm.js
 ```
 
 Then open `index.html` in your browser!
+
+## Screenshot
+
+![Screenshot](./media/screenshot.png)
